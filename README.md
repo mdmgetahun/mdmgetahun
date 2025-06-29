@@ -16,6 +16,6 @@ with **[technologies used]**. This project showcases my skills in **[skills demo
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+
+- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/amdetsion-m-getahun-7a2a50225/))
 - **[Twitter]**(your_twitter_profile_link)
